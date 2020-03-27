@@ -1,0 +1,4 @@
+John , Doe , Doe@gmail.com , Board , male , Taking it slowly , agreed
+Saratu , Muazu Bello , Sarahembee71@gmail.com , HR , female , Taking it slowly , agreed
+Sarah , Embee , Sarah@gmail.com , Marketing , female , Great Work  , agreed
+Tobi , Embee , tobi@gmail.com , Marketing , male , Great Work  , agreed
